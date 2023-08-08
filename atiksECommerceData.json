@@ -2,6 +2,7 @@
     "categories": [
       {
         "categoryName": "Smartphone",
+        "categoryImg": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-9907.jpg",
         "products": [
           {
             "name": "iPhone11",
@@ -56,6 +57,7 @@
       },
       {
         "categoryName": "Laptop",
+        "categoryImg": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-15-a5m/modern-15-a5m-grey-01-500x500.jpg",
         "products": [
           {
             "name": "Macbook Pro M1",
@@ -103,6 +105,7 @@
       },
       {
         "categoryName": "Tablet",
+        "categoryImg": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-air-5th-gen/ipad-air-blue-01-500x500.jpg",
         "products": [
           {
             "name": "Apple iPad 10.2-Inch 9th Gen 64GB Wi-Fi Silver (MK2L3LL/A)",
@@ -150,6 +153,7 @@
       },
       {
         "categoryName": "Headphone",
+        "categoryImg": "https://www.startech.com.bd/image/cache/catalog/headphone/asus/asus-h3/asus-h3-0001-500x500.jpg",
         "products": [
           {
             "name": "Razer Kraken V3 X Wired USB Gaming Headset",
