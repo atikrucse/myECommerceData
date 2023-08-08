@@ -1,0 +1,200 @@
+{
+    "categories": [
+      {
+        "categoryName": "Smartphone",
+        "products": [
+          {
+            "name": "iPhone11",
+            "price": 80000.00,
+            "image": "https://adminapi.applegadgetsbd.com/storage/media/large/1540-28625.jpg",
+            "quantity": 5,
+            "color": "Black"
+          },
+          {
+            "name": "iPhone12",
+            "price": 100000.00,
+            "image": "https://www.apple.com/newsroom/images/product/iphone/geo/apple_iphone-12_2-up_geo_10132020_inline.jpg.large.jpg",
+            "quantity": 7,
+            "color": "Silver"
+          },
+          {
+            "name": "iPhone13",
+            "price": 120000.00,
+            "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.slideshow-xlarge_2x.jpg",
+            "quantity": 2,
+            "color": "Silver"
+          },
+          {
+            "name": "iPhone14",
+            "price": 145000.00,
+            "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-9907.jpg",
+            "quantity": 5,
+            "color": "Silver"
+          },
+          {
+            "name": "Samsung S21 Ultra",
+            "price": 50000.00,
+            "image": "https://www.dxomark.com/wp-content/uploads/medias/post-76697/galaxys21_ultra-2048x1536-1-1536x1152-1.jpg",
+            "quantity": 7,
+            "color": "Silver"
+          },
+          {
+            "name": "Samsung S22 Ultra",
+            "price": 800000.00,
+            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-106688/Samsung-Galaxy-S22-Ultra-featured-image-packshot-review-Recovered-1024x691.jpg",
+            "quantity": 2,
+            "color": "Silver"
+          },
+          {
+            "name": "Samsung S23 Ultra",
+            "price": 110000.00,
+            "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Graphite-7411.jpg",
+            "quantity": 5,
+            "color": "Silver"
+          }
+        ]
+      },
+      {
+        "categoryName": "Laptop",
+        "products": [
+          {
+            "name": "Macbook Pro M1",
+            "price": 250000.00,
+            "image": "https://example.com/images/tshirt.jpg",
+            "quantity": 10,
+            "color": "White"
+          },
+          {
+            "name": "Macbook Pro M2",
+            "price": 330000.00,
+            "image": "https://example.com/images/jeans.jpg",
+            "quantity": 7,
+            "color": "Blue"
+          },
+          {
+            "name": "MSI Prestige",
+            "price": 90000.00,
+            "image": "https://storage-asset.msi.com/global/picture/news/2019/nb/prestige14-20191028-1.jpg",
+            "quantity": 8,
+            "color": "White"
+          },
+          {
+            "name": "MSI Modern",
+            "price": 70000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-15-a5m/modern-15-a5m-grey-01-500x500.jpg",
+            "quantity": 7,
+            "color": "Blue"
+          },
+          {
+            "name": "MSI GF-63",
+            "price": 120000.00,
+            "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/msi-gf63-thin-11uc-intel-core-i5-11400h-156-inch-11638696282.webp",
+            "quantity": 1,
+            "color": "White"
+          },
+          {
+            "name": "HP Pavilion",
+            "price": 130000.00,
+            "image": "https://techbd.com.bd/wp-content/uploads/2021/04/hp-pavilion-15-eg0077tu-3-500x500-1.jpg",
+            "quantity": 7,
+            "color": "Blue"
+          }
+        ]
+      },
+      {
+        "categoryName": "Tablet",
+        "products": [
+          {
+            "name": "Apple iPad 10.2-Inch 9th Gen 64GB Wi-Fi Silver (MK2L3LL/A)",
+            "price": 50000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/tablet-pc/apple/ipad-9th-gen/ipad-silver-wifi-500x500.webp",
+            "quantity": 10,
+            "color": "White"
+          },
+          {
+            "name": "Apple iPad 10.9-Inch 10th Gen 64GB Wi-Fi Pink (MPQ33)",
+            "price": 60000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-10th-gen/ipad-10th-gen-pink-500x500.webp",
+            "quantity": 7,
+            "color": "Blue"
+          },
+          {
+            "name": "Apple iPad Air 5th Gen 10.9-inch 64GB Wi-Fi Blue (MM9E3ZP/A)",
+            "price": 55000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-air-5th-gen/ipad-air-blue-01-500x500.jpg",
+            "quantity": 9,
+            "color": "White"
+          },
+          {
+            "name": "Samsung Galaxy Tab A 8.0-inch Snapdragon 429 2GB RAM 32GB ROM Android Tablet",
+            "price": 10000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/tablet/samsung/galaxy-tab-a-8-0/samsung-galaxy-tab-a-8-0-01-500x500.jpg",
+            "quantity": 5,
+            "color": "Blue"
+          },
+          {
+            "name": "Samsung Galaxy Tab A8 10.5-inch 3GB RAM 32GB ROM Android Tablet",
+            "price": 40000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/tablet/samsung/galaxy-tab-a8/galaxy-tab-a8-01-500x500.webp",
+            "quantity": 10,
+            "color": "White"
+          },
+          {
+            "name": "Lenovo TAB M8 (2nd Gen) 8-inch 2GB RAM 32GB Storage Android Tablet",
+            "price": 3000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/tablet-pc/lenovo/tab-m8-01-500x500.jpg",
+            "quantity": 5,
+            "color": "Blue"
+          }
+        ]
+      },
+      {
+        "categoryName": "Headphone",
+        "products": [
+          {
+            "name": "Razer Kraken V3 X Wired USB Gaming Headset",
+            "price": 8000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/headphone/razer/kraken-v3-x/kraken-v3-x-010-500x500.jpg",
+            "quantity": 10,
+            "color": "White"
+          },
+          {
+            "name": "Razer Kraken V3 Wired USB Gaming Headset",
+            "price": 10000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/headphone/razer/kraken-v3/kraken-v3-01-500x500.webp",
+            "quantity": 5,
+            "color": "Blue"
+          },
+          {
+            "name": "ASUS TUF Gaming H3 7.1 Gaming Headphone - Grey & Gun Metal",
+            "price": 4000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/headphone/asus/asus-h3/asus-h3-0001-500x500.jpg",
+            "quantity": 11,
+            "color": "White"
+          },
+          {
+            "name": "Asus ROG Strix Fusion 500 7.1 True Surround Sound Gaming Headset",
+            "price": 13000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/headphone/asus/rog-strix-fusion-500/rog-strix-fusion-500-01-500x500.jpg",
+            "quantity": 7,
+            "color": "Blue"
+          },
+          {
+            "name": "Sony INZONE H9 Wireless Noise Canceling Gaming Headset",
+            "price": 10000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/inzone-h9/inzone-h9-01-500x500.jpg",
+            "quantity": 10,
+            "color": "White"
+          },
+          {
+            "name": "Sony PlayStation Platinum 7.1 Virtual Surround Sound Wireless Headset",
+            "price": 4000.00,
+            "image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-platinum/playstation-platinum-500x500.jpg",
+            "quantity": 5,
+            "color": "Blue"
+          }
+        ]
+      }
+    ]
+  }
+  
