@@ -6,59 +6,74 @@
         "products": [
           {
             "id": 1,
-            "name": "iPhone11",
+            "title": "iPhone11",
+            "description": "The iPhone 11 has a 6.1-inch (15 cm) IPS LCD with a resolution is 1792 × 828 pixels (1.4 megapixels) at a pixel density of 326 PPI with a maximum brightness of 625 nits and a 1400:1 contrast ratio and it is equivalent to the iPhone XR. It supports Dolby Vision, HDR10, True-Tone, and a wide color gamut.",
             "price": 80000.00,
             "image": "https://adminapi.applegadgetsbd.com/storage/media/large/1540-28625.jpg",
             "quantity": 5,
-            "color": "Black"
+            "color": "Black",
+            "rating": "4.8"
           },
           {
             "id": 2,
-            "name": "iPhone12",
+            "title": "iPhone12",
+            "description": "The iPhone 12 was Apple's mainstream flagship iPhone for 2020. Available in a 6.1-inch size, the iPhone 12 offered 5G, an OLED display, improved cameras, and Apple's A14 chip. It continued to be available for several more years as a lower-cost option but was discontinued in September 2023.",
+            "description": "",
             "price": 100000.00,
             "image": "https://www.apple.com/newsroom/images/product/iphone/geo/apple_iphone-12_2-up_geo_10132020_inline.jpg.large.jpg",
             "quantity": 7,
-            "color": "Silver"
+            "color": "Silver",
+            "rating": "4.5"
           },
           {
             "id": 3,
-            "name": "iPhone13",
+            "title": "iPhone13",
+            "description": "The iPhone 13 features a 6.1-inch (155 mm) display with Super Retina XDR OLED technology at a resolution of 2532×1170 pixels and a pixel density of about 460 PPI with a refresh rate of 60 Hz.",
             "price": 120000.00,
             "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.slideshow-xlarge_2x.jpg",
             "quantity": 2,
-            "color": "Silver"
+            "color": "Silver",
+            "rating": "4.4"
           },
           {
             "id": 4,
-            "name": "iPhone14",
+            "title": "iPhone14",
+            "description": "The iPhone 14 and iPhone 14 Plus feature a 6.1-inch (15 cm) and 6.7-inch (17 cm) display, improvements to the rear-facing camera, and satellite connectivity for contacting emergency services when a user in trouble is beyond the range of Wi-Fi or cellular networks.",
             "price": 145000.00,
             "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-9907.jpg",
             "quantity": 5,
-            "color": "Silver"
+            "color": "Silver",
+            "rating": "4.7"
           },
           {
             "id": 5,
-            "name": "Samsung S21 Ultra",
-            "price": 50000.00,
-            "image": "https://www.dxomark.com/wp-content/uploads/medias/post-76697/galaxys21_ultra-2048x1536-1-1536x1152-1.jpg",
-            "quantity": 7,
-            "color": "Silver"
+            "title": "iPhone15",
+            "description": "The 6.1-inch iPhone 15 and 6.7-inch iPhone 15 Plus (measured diagonally at the display) have the same general design as the iPhone 14 and iPhone 14 Plus, but with more contoured edges that change the feel of the devices in the hand and lend a more modern look that sets the new iPhones apart from last year's models.",
+            "price": 145000.00,
+            "image": "",
+            "quantity": 5,
+            "color": "Silver",
+            "rating": "4.8"
           },
           {
             "id": 6,
-            "name": "Samsung S22 Ultra",
+            "title": "Samsung S22 Ultra",
+            "description": "6.8-inch Dynamic AMOLED display with 120Hz refresh rate, Snapdragon 8 Gen 1 processor, 5000mAh battery, up to 12gigs of RAM, and 1TB of storage.",
             "price": 800000.00,
             "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-106688/Samsung-Galaxy-S22-Ultra-featured-image-packshot-review-Recovered-1024x691.jpg",
             "quantity": 2,
-            "color": "Silver"
+            "color": "Silver",
+            "rating": "4.0"
           },
           {
             "id": 7,
-            "name": "Samsung S23 Ultra",
+            "title": "Samsung S23 Ultra",
+            "description": "The Galaxy S23 Ultra is a feature-packed premium smartphone that boasts a large 6.8-inch WQHD+ Super AMOLED panel with excellent viewing angles. Its high refresh rate of 120Hz and a touch sampling rate of 240Hz ensure smooth and vibrant visuals.",
             "price": 110000.00,
             "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Graphite-7411.jpg",
             "quantity": 5,
-            "color": "Silver"
+            "color": "Silver",
+            "rating": "4.2"
           }
         ]
       },
@@ -68,51 +83,63 @@
         "products": [
           {
             "id": 8,
-            "name": "Macbook Pro M1",
+            "title": "Macbook Pro M1",
+            "description": "The chips feature fast unified memory, industry-leading performance per watt, and incredible power efficiency, along with increased memory bandwidth and capacity. M1 Pro offers up to 200GB/s of memory bandwidth with support for up to 32GB of unified memory.",
             "price": 250000.00,
             "image": "https://example.com/images/tshirt.jpg",
             "quantity": 10,
-            "color": "White"
+            "color": "White",
+            "rating": "4.8"
           },
           {
             "id": 9,
-            "name": "Macbook Pro M2",
+            "title": "Macbook Pro M2",
+            "description": "The M2 processor improved the 13-inch MacBook Pro's battery life from 16 hours to 20 hours, and the 18% performance boost over the M1 is also present here. Customers can configure this model with up to 24GB of RAM and 2TB of storage. The internals, display, speakers, camera, and keyboard were left unchanged.",
             "price": 330000.00,
             "image": "https://example.com/images/jeans.jpg",
             "quantity": 7,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.9"
           },
           {
             "id": 10,
-            "name": "MSI Prestige",
+            "title": "MSI Prestige",
+            "description": "The Prestige series combines your favorite business and productivity elements in a ultra-slim, ultra-light laptop. Enhance your workflow with strong computing featuring up to the latest 12th Gen Intel® Core™ i7 processor and NVIDIA® GeForce RTX™ 30 series graphics, which suffice the productivity between work & life.",
             "price": 90000.00,
             "image": "https://storage-asset.msi.com/global/picture/news/2019/nb/prestige14-20191028-1.jpg",
             "quantity": 8,
-            "color": "White"
+            "color": "White",
+            "rating": "4.7"
           },
           {
             "id": 11,
-            "name": "MSI Modern",
+            "title": "MSI Modern",
+            "description": "Whether you are exploring campus life or pursuing your career, with the latest 11th Gen. Intel® Core™ i7 processors and up to NVIDIA® discrete graphics, you will breathtaking new wonders through the Modern series.",
             "price": 70000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/modern-15-a5m/modern-15-a5m-grey-01-500x500.jpg",
             "quantity": 7,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.2"
           },
           {
             "id": 12,
-            "name": "MSI GF-63",
+            "title": "MSI GF-63",
+            "description": "Equips the latest 11th Gen. Intel® Core™ i7 processor, it's up to 40% performance gains over the previous generation. Achieve greater power with this 8-core processor supporting up to 4.6GHz dual core frequency to maximize efficiency in gameplay, multi-task work and productivity. * Performance compared to i7-10750H.",
             "price": 120000.00,
             "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/msi-gf63-thin-11uc-intel-core-i5-11400h-156-inch-11638696282.webp",
             "quantity": 1,
-            "color": "White"
+            "color": "White",
+            "rating": "3.5"
           },
           {
             "id": 13,
-            "name": "HP Pavilion",
+            "title": "HP Pavilion",
+            "description": "HP Pavilion is a line of consumer-oriented laptop and desktop computers produced by HP Inc. It was introduced in 1995 by Hewlett-Packard. The name is applied to both desktops and laptops for the Home and Home Office product range.",
             "price": 130000.00,
             "image": "https://techbd.com.bd/wp-content/uploads/2021/04/hp-pavilion-15-eg0077tu-3-500x500-1.jpg",
             "quantity": 7,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.2"
           }
         ]
       },
@@ -122,51 +149,63 @@
         "products": [
           {
             "id": 14,
-            "name": "Apple iPad 10.2-Inch 9th Gen 64GB Wi-Fi Silver (MK2L3LL/A)",
+            "title": "Apple iPad 10.2-Inch 9th Gen 64GB Wi-Fi Silver (MK2L3LL/A)",
+            "description": "The new iPad has a beautiful 10.2-inch Retina display, powerful A13 Bionic chip, an Ultra Wide front camera with Center Stage, and works with Apple Pencil and the Smart Keyboard. iPad lets you do more, more easily. All for an incredible value.",
             "price": 50000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/tablet-pc/apple/ipad-9th-gen/ipad-silver-wifi-500x500.webp",
             "quantity": 10,
-            "color": "White"
+            "color": "White",
+            "rating": "4.6"
           },
           {
             "id": 15,
-            "name": "Apple iPad 10.9-Inch 10th Gen 64GB Wi-Fi Pink (MPQ33)",
+            "title": "Apple iPad 10.9-Inch 10th Gen 64GB Wi-Fi Pink (MPQ33)",
+            "description": "The all-new iPad is colorfully reimagined to be more capable, more intuitive, and even more fun. With a new all‑screen design, 10.9-inch Liquid Retina display, and four gorgeous colors, iPad delivers a powerful way to get things done, create, and stay connected.",
             "price": 60000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-10th-gen/ipad-10th-gen-pink-500x500.webp",
             "quantity": 7,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.7"
           },
           {
             "id": 16,
-            "name": "Apple iPad Air 5th Gen 10.9-inch 64GB Wi-Fi Blue (MM9E3ZP/A)",
+            "title": "Apple iPad Air 5th Gen 10.9-inch 64GB Wi-Fi Blue (MM9E3ZP/A)",
+            "description": "With an immersive 10.9-inch Liquid Retina display and the amazing performance of the M1 chip, iPad Air is a creative and gaming powerhouse. Featuring Touch ID, advanced cameras, superfast Wi-Fi 6, and a USB-C connector.",
             "price": 55000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-air-5th-gen/ipad-air-blue-01-500x500.jpg",
             "quantity": 9,
-            "color": "White"
+            "color": "White",
+            "rating": "4.6"
           },
           {
             "id": 17,
-            "name": "Samsung Galaxy Tab A 8.0-inch Snapdragon 429 2GB RAM 32GB ROM Android Tablet",
+            "title": "Samsung Galaxy Tab A 8.0-inch Snapdragon 429 2GB RAM 32GB ROM Android Tablet",
+            "description": "The tablet comes with a 8.00-inch touchscreen display offering a resolution of 800x1280 pixels. Samsung Galaxy Tab A 8.0 (2019) LTE is powered by a 2GHz octa-core processor. It comes with 2GB of RAM. The Samsung Galaxy Tab A 8.0 (2019) LTE runs Android 9 Pie and is powered by a 5100mAh non-removable battery.",
             "price": 10000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/tablet/samsung/galaxy-tab-a-8-0/samsung-galaxy-tab-a-8-0-01-500x500.jpg",
             "quantity": 5,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.1"
           },
           {
             "id": 18,
-            "name": "Samsung Galaxy Tab A8 10.5-inch 3GB RAM 32GB ROM Android Tablet",
+            "title": "Samsung Galaxy Tab A8 10.5-inch 3GB RAM 32GB ROM Android Tablet",
+            "description": "The tablet comes with a 10.50-inch touchscreen display offering a resolution of 1,920x1,200 pixels. Samsung Galaxy Tab A8 is powered by an octa-core processor. It comes with 3GB of RAM. The Samsung Galaxy Tab A8 runs Android 11 and is powered by a 7040mAh non-removable battery.",
             "price": 40000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/tablet/samsung/galaxy-tab-a8/galaxy-tab-a8-01-500x500.webp",
             "quantity": 10,
-            "color": "White"
+            "color": "White",
+            "rating": "4.4"
           },
           {
             "id": 19,
-            "name": "Lenovo TAB M8 (2nd Gen) 8-inch 2GB RAM 32GB Storage Android Tablet",
+            "title": "Lenovo TAB M8 (2nd Gen) 8-inch 2GB RAM 32GB Storage Android Tablet",
+            "description": "The Tab M8 (2nd Gen) brings an IPS HD touchscreen display that uses 82% of the tablet's surface area for seamless visuals, and a Dolby Audio™-tuned speaker. This one-two punch of visual and audio pleasure makes streaming your favorite videos and playing mobile games even more enjoyable.",
             "price": 3000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/tablet-pc/lenovo/tab-m8-01-500x500.jpg",
             "quantity": 5,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.3"
           }
         ]
       },
@@ -176,51 +215,63 @@
         "products": [
           {
             "id": 20,
-            "name": "Razer Kraken V3 X Wired USB Gaming Headset",
+            "title": "Razer Kraken V3 X Wired USB Gaming Headset",
+            "description": "The Razer Kraken V3 X Wired USB Gaming Headset features Razer TriForce 40mm Drivers, Razer HyperClear Cardioid Mic, Hybrid fabric and memory foam ear cushions. This gaming headset is upgraded with patented Razer TriForce drivers for incredibly realistic sound.",
             "price": 8000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/headphone/razer/kraken-v3-x/kraken-v3-x-010-500x500.jpg",
             "quantity": 10,
-            "color": "White"
+            "color": "White",
+            "rating": "4.3"
           },
           {
             "id": 21,
-            "name": "Razer Kraken V3 Wired USB Gaming Headset",
+            "title": "Razer Kraken V3 Wired USB Gaming Headset",
+            "description": "This Razer Kraken V3 is a great headset for gamers who want comfort, surround sound, and software customization for a reasonable price. It's primarily a headset for PC gamers since THX Spatial audio is only supported on Windows. If you want something more multifaceted for multiple systems, this won't be an ideal headset for you. Luckily, there are plenty of competent Kraken V3 alternatives available to you.",
             "price": 10000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/headphone/razer/kraken-v3/kraken-v3-01-500x500.webp",
             "quantity": 5,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "4.1"
           },
           {
             "id": 22,
-            "name": "ASUS TUF Gaming H3 7.1 Gaming Headphone - Grey & Gun Metal",
+            "title": "ASUS TUF Gaming H3 7.1 Gaming Headphone - Grey & Gun Metal",
+            "description": "The TUF Gaming H3 Wireless headset is designed to provide incredible freedom with a 2.4 GHz wireless connection. With 50 mm ASUS Essence drivers, an airtight chamber design and virtual 7.1 surround sound, TUF Gaming H3 Wireless upgrades your in-game audio experiences by delivering wonderfully rich, immersive sound.",
             "price": 4000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/headphone/asus/asus-h3/asus-h3-0001-500x500.jpg",
             "quantity": 11,
-            "color": "White"
+            "color": "White",
+            "rating": "3.2"
           },
           {
             "id": 23,
-            "name": "Asus ROG Strix Fusion 500 7.1 True Surround Sound Gaming Headset",
+            "title": "Asus ROG Strix Fusion 500 7.1 True Surround Sound Gaming Headset",
+            "description": "The ROG Strix Fusion 500 gaming headset delivers comfort and immersive audio with virtual 7.1 channel sound driven by 50mm ASUS Essence drivers. Hear every detail with ESS Hi-Fi DAC and Amplifiers delivering dynamic range and ultra-low distortion.",
             "price": 13000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/headphone/asus/rog-strix-fusion-500/rog-strix-fusion-500-01-500x500.jpg",
             "quantity": 7,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "3.5"
           },
           {
             "id": 24,
-            "name": "Sony INZONE H9 Wireless Noise Canceling Gaming Headset",
+            "title": "Sony INZONE H9 Wireless Noise Canceling Gaming Headset",
+            "description": "Our INZONE H9 features ergonomically designed control buttons and dials so you can easily change functions and adjust settings during a game. On the left earcup are the main operation controls including the volume dial, Noise Cancelling / Ambient Sound Mode button and mic mute.",
             "price": 10000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/inzone-h9/inzone-h9-01-500x500.jpg",
             "quantity": 10,
-            "color": "White"
+            "color": "White",
+            "rating": "3.7"
           },
           {
             "id": 25,
-            "name": "Sony PlayStation Platinum 7.1 Virtual Surround Sound Wireless Headset",
+            "title": "Sony PlayStation Platinum 7.1 Virtual Surround Sound Wireless Headset",
+            "description": "Sony PlayStation Platinum 7.1 Virtual Surround Sound Wireless Headset. Pro level gaming audio from our best PS4 headset yet. Put yourself at the centre of every game with 3D Audio technology, enhanced 7.1 surround sound and a host of premium gaming audio features.",
             "price": 4000.00,
             "image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/playstation-platinum/playstation-platinum-500x500.jpg",
             "quantity": 5,
-            "color": "Blue"
+            "color": "Blue",
+            "rating": "3.2"
           }
         ]
       }
